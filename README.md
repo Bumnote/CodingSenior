@@ -1,7 +1,7 @@
 # CodingSenior
-컴공선배 코딩테스트 캠프 
+**컴공선배 코딩테스트 캠프 (for Python)**
 
-- 자료구조
+- **자료구조**
     - [[백준] 1302 베스트 셀러](https://www.acmicpc.net/problem/1302)
     - [[백준] 2164 카드2](https://www.acmicpc.net/problem/2164)
     - [[백준] 9012 괄호](https://www.acmicpc.net/problem/9012)
@@ -15,7 +15,8 @@
     - [[백준] 1449 수리공 항승](https://www.acmicpc.net/problem/1449)
     
 - **백트레킹 / DFS / BFS**
-
+    - [[백준] 11724 연결요소의 개수](https://www.acmicpc.net/problem/11724)
+    - [[백준] 2178 미로탐색](https://www.acmicpc.net/problem/2178)
 - **이분탐색**
     - [[백준] 2512 예산](https://www.acmicpc.net/problem/2512)
     - [[백준] 10815 숫자 카드](https://www.acmicpc.net/problem/10815)
