@@ -23,3 +23,10 @@
 - **DP**
 - **핵심 문제** 
   - [[백준] 1018 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
+  - [[백준] 2841 외계인의 기타 연주](https://www.acmicpc.net/problem/2841)
+  - [[백준] 4796 캠핑](https://www.acmicpc.net/problem/4796)
+  - [[백준] 15686 치킨 배달](https://www.acmicpc.net/problem/15686)
+  - [[백준] 1389 케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389)
+  - [[백준] 1915 가장 큰 정사각형](https://www.acmicpc.net/problem/1915)
+  - [[백준] 17136 색종이 붙이기](https://www.acmicpc.net/problem/17136)
+  - [[백준] 1213 팰린드롬 만들기](https://www.acmicpc.net/problem/1213)
