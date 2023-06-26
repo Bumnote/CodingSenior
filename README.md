@@ -6,22 +6,33 @@
     - [[백준] 2164 카드2](https://www.acmicpc.net/problem/2164)
     - [[백준] 9012 괄호](https://www.acmicpc.net/problem/9012)
     - [[백준] 11286 절댓값 힙](https://www.acmicpc.net/problem/11286)
+
     
 - **완전탐색**
     - [[백준] 2309 일곱 난쟁이](https://www.acmicpc.net/problem/2309)
+
     
 - **그리디 알고리즘**
     - [[백준] 11047 동전 0](https://www.acmicpc.net/problem/11047)
     - [[백준] 1449 수리공 항승](https://www.acmicpc.net/problem/1449)
+
     
 - **백트레킹 / DFS / BFS**
     - [[백준] 11724 연결요소의 개수](https://www.acmicpc.net/problem/11724)
     - [[백준] 2178 미로탐색](https://www.acmicpc.net/problem/2178)
+
+
 - **이분탐색**
     - [[백준] 2512 예산](https://www.acmicpc.net/problem/2512)
     - [[백준] 10815 숫자 카드](https://www.acmicpc.net/problem/10815)
+
     
 - **DP**
+    - [[백준] 2748 피보나치 수 2](https://www.acmicpc.net/problem/2748) 
+    - [[백준] 11051 이항 계수 2](https://www.acmicpc.net/problem/11051)
+
+
+
 - **핵심 문제** 
   - [[백준] 1018 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
   - [[백준] 2841 외계인의 기타 연주](https://www.acmicpc.net/problem/2841)
