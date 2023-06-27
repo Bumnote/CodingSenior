@@ -30,7 +30,8 @@
 - **DP**
     - [[백준] 2748 피보나치 수 2](https://www.acmicpc.net/problem/2748) 
     - [[백준] 11051 이항 계수 2](https://www.acmicpc.net/problem/11051)
-
+    - [[백준] 11726 2 x n 타일링](https://www.acmicpc.net/problem/11726) 
+    - [[백준] 10844 쉬운 계단 수](https://www.acmicpc.net/problem/10844)
 
 
 - **핵심 문제** 
