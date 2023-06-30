@@ -1,4 +1,4 @@
-# CodingSenior
+# CodingSenior (Completion)
 **컴공선배 코딩테스트 캠프 (for Python)**
 
 - **자료구조**
