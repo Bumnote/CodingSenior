@@ -34,7 +34,7 @@
     - [[백준] 10844 쉬운 계단 수](https://www.acmicpc.net/problem/10844)
 
 
-- **핵심 문제** 
+- **실전 문제** 
   - [[백준] 1018 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
   - [[백준] 2841 외계인의 기타 연주](https://www.acmicpc.net/problem/2841)
   - [[백준] 4796 캠핑](https://www.acmicpc.net/problem/4796)
